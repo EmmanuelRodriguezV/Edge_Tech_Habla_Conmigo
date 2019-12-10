@@ -1,0 +1,175 @@
+.dark:active{
+    
+}
+#MenuPane
+{
+    -fx-background-color: #228BE6;
+}
+
+#MenuPane
+{
+    -fx-background-color: #228BE6;
+}
+
+.button
+{
+    -fx-background-color: #228BE6;
+    -fx-font-size: 30px;
+    -fx-border-radius: 10;
+    -fx-border-color: #228BE6;  
+}
+.button:hover
+{
+    -fx-background-color: #43a5fa;
+    -fx-border-radius: 10;
+}
+.button:pressed {
+    -fx-background-color: #228BE6; 
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+.btnCross
+{
+    -fx-image:url("../ico/icoCross.png");
+}
+.btnCross:hover
+{
+    -fx-image:url("../ico/icoCrossHover.png");
+}
+.btnCross:pressed
+{
+    -fx-image:url("../ico/icoCross.png");
+}
+.btnCheck
+{
+    -fx-image:url("../ico/icoCheck.png");
+}
+.btnCheck:hover
+{
+    -fx-image:url("../ico/icoCheckHover.png");
+}
+.btnCheck:pressed
+{
+    -fx-image:url("../ico/icoCheck.png");
+}
+.btnHelpWDark{
+-fx-image:url("../ico/icoHelpWA.png");
+}
+
+.btnHelpWDark:hover
+{
+-fx-image:url("../ico/icoHelpW.png");
+}
+
+.btnHelpWDark:pressed
+{
+-fx-image:url("../ico/icoHelpW.png");
+}
+.btnHelpW
+{
+    -fx-image:url("../ico/icoHelpW.png");
+}
+.btnHelpW:hover
+{
+    -fx-image:url("../ico/icoHelpWA.png");
+}
+.btnHelpW:pressed
+{
+    -fx-image:url("../ico/icoHelpW.png");
+}
+.btnHelpB
+{
+    -fx-image:url("../ico/icoHelpB.png");
+}
+.btnHelpB:hover
+{
+    -fx-image:url("../ico/icoHelpBA.png");
+}
+.btnHelpB:pressed
+{
+    -fx-image:url("../ico/icoHelpB.png");
+}
+.btnRefreshW
+{
+    -fx-image:url("../ico/icoRefreshW.png");
+}
+.btnRefreshW:hover
+{
+    -fx-image:url("../ico/icoRefreshHover.png");
+}
+.btnRefreshW:pressed
+{
+    -fx-image:url("../ico/icoRefreshW.png");
+}
+.btnRefreshB
+{
+    -fx-image:url("../ico/icoRefreshB.png");
+}
+.btnRefreshB:hover
+{
+    -fx-image:url("../ico/icoRefreshHover.png");
+}
+.btnRefreshB:pressed
+{
+    -fx-image:url("../ico/icoRefreshB.png");
+}
+.btnMoonDark
+{
+ -fx-image:url("../ico/icoMoonP.png");
+}
+.btnMoonDark:hover
+{
+-fx-image:url("../ico/icoMoon.png");
+}
+
+.btnMoonDark:hover{
+-fx-image:url("../ico/icoMoonP.png");
+}
+.btnMoon
+{
+    -fx-image:url("../ico/icoMoon.png");
+}
+.btnMoon:hover
+{
+    -fx-image:url("../ico/icoMoonP.png");
+}
+.btnMoon:pressed
+{
+    -fx-image:url("../ico/icoMoon.png");
+}
+.btnEye
+{
+    -fx-image:url("../ico/icoEye.png");
+}
+.btnEye:hover
+{
+    -fx-image:url("../ico/icoEyeHover.png");
+}
+.btnEye:pressed
+{
+    -fx-image:url("../ico/icoEye.png");
+}
+.btnVoice
+{
+    -fx-image:url("../ico/icoVoice.png");
+}
+.btnVoice:hover
+{
+    -fx-image:url("../ico/icoVoiceHover.png");
+}
+.btnVoice:pressed
+{
+    -fx-image:url("../ico/icoVoice.png");
+}
+.btnSave
+{
+    -fx-image:url("../ico/icoSave.png");
+}
+.btnSave:hover
+{
+    -fx-image:url("../ico/icoSaveHover.png");
+}
+.btnSave:pressed
+{
+    -fx-image:url("../ico/icoSave.png");
+}
